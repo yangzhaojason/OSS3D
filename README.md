@@ -1,5 +1,5 @@
 # OSS3D
-Semi Supervised Learning about Bevdet, Bevdepth, Bevformer, etc.
+Code for OSS3D: Object-Guided Semi-Supervised Bird's-Eye View 3D Object Detection with 3D Box Refinement.
 
 ## 环境准备
 
